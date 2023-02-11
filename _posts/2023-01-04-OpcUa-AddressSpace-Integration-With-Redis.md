@@ -3,9 +3,6 @@ layout: post
 title: Optimizing and Monitoring OPC UA Address Space with Redis-Search and Lua Script Engine in Node4i
 ---
 
-
-# Optimizing and Monitoring OPC UA Address Space with Redis-Search and Lua Script Engine in Node4i
-
 OPC UA is a communication protocol for the Industrial Internet of Things (IIoT). It provides a standard for the secure and reliable exchange of industrial automation data between devices and systems from different vendors and platforms.
 
 In order to handle and manage the OPC UA address space in a scalable and efficient manner, Node4i utilizes the OPC UA MILO SDK and implements modifications on the Address Space Management. The goal is to optimize and monitor the address space in real-time with advanced features such as Redis-Search and a Lua Script Engine.

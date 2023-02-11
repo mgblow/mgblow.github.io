@@ -3,9 +3,6 @@ layout: post
 title: Ensuring Secure Automation, The Benefits and Standards of OPC UA Security in the Industrial Industry
 ---
 
-
-# Ensuring Secure Automation: The Benefits and Standards of OPC UA Security in the Industrial Industry
-
 OPC UA security is critical for the industrial automation industry, as it helps to ensure the confidentiality, integrity, and availability of process control and automation data. In this article, we will explore the benefits of OPC UA security and why it is based on international standards.
 
 ## Benefits of OPC UA Security for Industry:

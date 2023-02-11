@@ -3,8 +3,6 @@ layout: post
 title: Harnessing the Power of Swing Door Linear Trend (SDLT) in Node4i
 ---
 
-# Harnessing the Power of Swing Door Linear Trend (SDLT) in Node4i: Improving IoT Data Processing and Management
-
 Node4i is a software platform that has been designed to cater to the needs of organizations looking to collect, process and store IoT data in the cloud. It offers a suite of tools for data management, data processing, data analysis, and visualization of IoT data. One of the key features of Node4i is its integration with the Swing Door Linear Trend (SDLT) algorithm, which provides several benefits to organizations looking to deploy IoT solutions. In this article, we will discuss the benefits of using SDLT in Node4i and what makes it unique from other algorithms.
 
 What is the Swing Door Linear Trend (SDLT) algorithm?

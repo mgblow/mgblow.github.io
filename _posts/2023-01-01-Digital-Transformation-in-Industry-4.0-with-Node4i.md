@@ -3,8 +3,6 @@ layout: post
 title: Digital Transformation in Industry 4.0 with Node4i
 ---
 
-# Digital Transformation in Industry 4.0 with Node4i
-
 Industry 4.0, also known as the Fourth Industrial Revolution, is the current trend of automation and data exchange in manufacturing and other industries. With the integration of new technologies such as IoT, cloud computing, and artificial intelligence, factories can now become smarter and more efficient.
 
 One platform that is playing a significant role in Industry 4.0 is Node4i. Node4i is an open source platform that offers a complete solution for digital transformation in factories. It allows for the integration of OT (Operational Technology) and IT (Information Technology) systems, enabling factories to manage and monitor all their operations in real-time.

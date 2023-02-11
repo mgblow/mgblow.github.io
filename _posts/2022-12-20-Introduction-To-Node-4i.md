@@ -3,7 +3,6 @@ layout: post
 title: Node4i UA IIoT Platform
 ---
 
-# Node4i
 Node4i is a comprehensive IIoT platform that enables industrial organizations to achieve Industry 4.0 concepts in a
 unified and standardized manner.
 
@@ -37,28 +36,28 @@ I4 technologies and concepts in industrial environments.
 ## Example Of Use cases
 
 1. Mining:
-    - Monitoring and analyzing production data in real-time to optimize extraction and processing operations
-    - Improving safety by monitoring environmental conditions and detecting potential hazards
-    - Automating the transport of minerals from the mine site to the processing plant using Node4i's truck dispatching
-      capabilities
+   - Monitoring and analyzing production data in real-time to optimize extraction and processing operations
+   - Improving safety by monitoring environmental conditions and detecting potential hazards
+   - Automating the transport of minerals from the mine site to the processing plant using Node4i's truck dispatching
+     capabilities
 2. Melting:
-    - Real-time monitoring of furnace temperature and production rate to optimize melting processes
-    - Automating the material handling process by triggering alarms and events when certain conditions are met
-    - Improving efficiency by using Node4i's machine learning capabilities to make decisions based on past production
-      data
+   - Real-time monitoring of furnace temperature and production rate to optimize melting processes
+   - Automating the material handling process by triggering alarms and events when certain conditions are met
+   - Improving efficiency by using Node4i's machine learning capabilities to make decisions based on past production
+     data
 3. Truck Dispatching:
-    - Real-time monitoring of truck location and load status to optimize delivery schedules
-    - Improving safety by monitoring truck conditions and detecting potential hazards
-    - Automating the dispatch process by triggering events and alarms when certain conditions are met
+   - Real-time monitoring of truck location and load status to optimize delivery schedules
+   - Improving safety by monitoring truck conditions and detecting potential hazards
+   - Automating the dispatch process by triggering events and alarms when certain conditions are met
 4. Process Automation:
-    - Real-time monitoring of production processes to optimize production and minimize downtime
-    - Improving safety by monitoring environmental conditions and detecting potential hazards
-    - Automating the production process by triggering events and alarms when certain conditions are met
+   - Real-time monitoring of production processes to optimize production and minimize downtime
+   - Improving safety by monitoring environmental conditions and detecting potential hazards
+   - Automating the production process by triggering events and alarms when certain conditions are met
 5. ML Decision Making with UDT and Runtime&Components:
-    - Using Node4i's UDT and Runtime&Components to collect and analyze production data to make data-driven decisions
-    - Improving efficiency by using Node4i's machine learning capabilities to make decisions based on past production
-      data
-    - Automating the production process by triggering events and alarms when certain conditions are met
+   - Using Node4i's UDT and Runtime&Components to collect and analyze production data to make data-driven decisions
+   - Improving efficiency by using Node4i's machine learning capabilities to make decisions based on past production
+     data
+   - Automating the production process by triggering events and alarms when certain conditions are met
 
 ## Documentation
 

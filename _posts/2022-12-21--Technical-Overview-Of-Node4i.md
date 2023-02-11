@@ -3,8 +3,6 @@ layout: post
 title: Under the Hood, A Technical Overview of Node4i Platform Technologies
 ---
 
-# Under the Hood: A Technical Overview of Node4i Platform Technologies
-
 Node4i is a software platform designed specifically for industrial and IT/OT environments. With a focus on data management, data processing, data analysis, and visualization, Node4i provides organizations with the tools they need to effectively collect, process, and store IIoT data in the cloud and edge. Under the hood, Node4i is built on a combination of cutting-edge technologies that provide the scalability, security, and performance required for modern IIoT solutions.
 
 ## Core Platform: OPC UA

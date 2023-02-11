@@ -3,8 +3,6 @@ layout: post
 title: Edge Computing and Cloud Computing Enablement in Node4i, A Comprehensive Guide for Industrial Environments
 ---
 
-# Edge Computing and Cloud Computing Enablement in Node4i: A Comprehensive Guide for Industrial Environments
-
 The rise of Industry 4.0 has led to an increased demand for technologies that can effectively manage and process large amounts of data in real-time. As a result, edge computing and cloud computing have become increasingly important in the industrial environment. Edge computing is a paradigm that enables data processing to occur at the edge of the network, closer to the source of the data. Cloud computing, on the other hand, enables the use of remote servers for data processing, storage, and management. Both edge computing and cloud computing have their own unique advantages, and the best solution for a given scenario would depend on the specific requirements of the industrial environment.
 
 Node4i is an industrial IoT platform that has been designed to provide solutions for Industry 4.0. One of its key features is its ability to support both edge computing and cloud computing, providing customers with the best of both worlds. This article provides a comprehensive guide to the edge computing and cloud computing capabilities of Node4i.
