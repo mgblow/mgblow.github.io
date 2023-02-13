@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unifying the Factory Floor: Implementing the UNS Concept in Node4i
+title: Unifying the Factory Floor, Implementing the UNS Concept in Node4i
 ---
 
 The Unified Namespace (UNS) concept is a critical aspect of Industry 4.0 and the Internet of Things (IoT) revolution. It is designed to provide a centralized and organized structure for the discovery, access, and interaction between connected devices and systems within the Industrial Internet of Things (IIoT). UNS is an important enabler for interoperability, which allows various devices and systems to communicate with each other seamlessly and securely.
