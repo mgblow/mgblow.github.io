@@ -3,18 +3,39 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
+    <h1>{{ page.title }}</h1>
 
-  <div class="entry">
-    {{ content }}
-  </div>
+    <div class="entry">
+        {{ content }}
+    </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+    <div class="date">
+        Written on {{ page.date | date: "%B %e, %Y" }}
+    </div>
 
-  {% include disqus.html %}
-  <script>
-    console.log('hi from here ...');
-  </script>
+    {% include disqus.html %}
+    <script>
+        const configuration = new openai.Configuration({
+            apiKey: "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",
+        });
+
+        const openai = new openai.OpenAIApi(configuration);
+        openai.Completions.create(
+            {
+                model: "text-davinci-003",
+                prompt: "The following is a conversation with an AI assistant. The assistant is helpful, creative, clever, and very friendly.\n\nHuman: Hello, who are you?\nAI: I am an AI created by OpenAI. How can I help you today?\nHuman: I'd like to cancel my subscription.\nAI:",
+                temperature: 0.9,
+                max_tokens: 150,
+                top_p: 1,
+                frequency_penalty: 0.0,
+                presence_penalty: 0.6,
+                stop: [" Human:", " AI:"],
+            },
+            function (error, response) {
+                // Handle the response here
+                console.log(response);
+            }
+        );
+
+    </script>
 </article>
